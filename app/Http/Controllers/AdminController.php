@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+// ff
 use App\Models\TradeLicence;
 use Illuminate\Http\Request;
 use App\Models\User;
