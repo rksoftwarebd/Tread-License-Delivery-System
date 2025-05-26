@@ -1,5 +1,5 @@
 <?php
-
+//comment
 namespace App\Http\Controllers;
 // ff
 use App\Models\TradeLicence;
